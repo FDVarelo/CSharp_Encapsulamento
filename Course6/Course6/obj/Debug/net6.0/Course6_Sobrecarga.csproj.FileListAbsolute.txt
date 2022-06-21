@@ -1,0 +1,5 @@
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6_Sobrecarga.csproj.AssemblyReference.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6_Sobrecarga.AssemblyInfoInputs.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6_Sobrecarga.AssemblyInfo.cs
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6_Sobrecarga.csproj.CoreCompileInputs.cache

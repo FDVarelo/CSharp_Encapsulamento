@@ -1,0 +1,15 @@
+C:\temp\WS-VS-2022\Course6\Course6\bin\Debug\net6.0\Course6.exe
+C:\temp\WS-VS-2022\Course6\Course6\bin\Debug\net6.0\Course6.deps.json
+C:\temp\WS-VS-2022\Course6\Course6\bin\Debug\net6.0\Course6.runtimeconfig.json
+C:\temp\WS-VS-2022\Course6\Course6\bin\Debug\net6.0\Course6.dll
+C:\temp\WS-VS-2022\Course6\Course6\bin\Debug\net6.0\Course6.pdb
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.csproj.AssemblyReference.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.AssemblyInfoInputs.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.AssemblyInfo.cs
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.dll
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\refint\Course6.dll
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.pdb
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\Course6.genruntimeconfig.cache
+C:\temp\WS-VS-2022\Course6\Course6\obj\Debug\net6.0\ref\Course6.dll
